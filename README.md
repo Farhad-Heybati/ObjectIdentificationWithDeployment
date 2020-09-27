@@ -1,2 +1,1 @@
-# ObjectIdentificationWithDeployment
-MashroomClassifier
+# Cotton-Disease-Prediction-Deep-Learning
